@@ -1,0 +1,19 @@
+# Fichiers compilés Java
+bin/
+*.class
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'IDE
+.vscode/
+.idea/
+*.iml
+
+# Fichiers de compilation
+sources.txt
